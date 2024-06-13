@@ -1,0 +1,121 @@
+        body {
+            font-family: Times new roman, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+
+        nav {
+            background-color: #333;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        nav ul li {
+            float: left;
+        }
+
+        nav ul li a {
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav ul li a:hover {
+            background-color: #111;
+        }
+
+        main {
+            padding: 1rem;
+        }
+        
+        .search-bar {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 1rem;
+        }
+        
+        .search-bar input[type="search"] {
+        padding: 0.5rem;
+        font-size: 1rem;
+        width: 100%;
+        }
+        
+        .search-bar button {
+        padding: 0.5rem 1rem;
+        background-color: #4CAF50;
+        color: #fff;
+        border-radius:10px;
+        margin-left:5px;
+        cursor: pointer;
+        font-size: 1rem;
+        }
+        
+        .search-bar button:hover {
+        background-color: #45a049;
+        }
+
+        section {
+            margin-bottom: 2rem;
+        }
+
+        h2 {
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 0.5rem;
+        }
+        
+        .book {
+            width: 150px;
+        }
+
+        .book-row {
+            display: flex;
+            gap: 1rem;
+            overflow-x: auto;
+            padding-bottom: 1rem;
+        }
+
+        .book-row a {
+            display: block;
+            text-align: center;
+            min-width: 150px;
+        }
+
+        .book-row img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .book-title {
+            text-align: center;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+        }
+        
+        #topicon {
+        width:50px;
+        position:fixed;
+        bottom:1rem;
+        right:1rem;
+        border-radius:50%;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
