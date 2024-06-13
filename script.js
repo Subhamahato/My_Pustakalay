@@ -32,6 +32,7 @@ const books = [
      { title: "Mahabharat Part4", link: "link", image: "Images/Mahabharat4.jpg", category: "itihas" },
      { title: "Mahabharat Part5", link: "link", image: "Images/Mahabharat5.jpg", category: "itihas" },
      { title: "Mahabharat Part6", link: "link", image: "Images/Mahabharat6.jpg", category: "itihas" },
+     { title: "Ramayan", link: "link", image: "Images/Ramayan.jpg", category: "itihas" },
      
      { title: "Manusmriti", link: "link", image: "Images/Manusmriti.jpg", category: "smriti" },
      { title: "Parashar Smriti", link: "link", image: "Images/Parashar Smriti.jpg", category: "smriti" },
