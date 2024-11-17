@@ -156,6 +156,34 @@
             width: 100%;
         }
 
+        .founderBox p {
+            text-align: center;
+            font-size: 1.5em;
+        }
+
+        .founderBox p span {
+            font-size: 1.5em;
+            font-family: cursive;
+        }
+        
+        .founder {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 80%;
+            max-width: 540px;
+            aspect-ratio: 1;
+            margin: 20px auto;
+            border: 2px solid rgb(19, 177, 90);
+            border-radius: 50%;
+            background-image: linear-gradient(rgb(0, 200, 255), rgb(255, 255, 255));
+            overflow: hidden;
+        }
+        
+        .founder img {
+            width: 100%;
+        }
+
         .feedback {
             border: 2px solid rgb(19, 177, 90);
             border-radius: 20px;
