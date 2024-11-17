@@ -1,9 +1,12 @@
+<!-- updated dates : 17/11/2024, changed the overall theme as a bookshelf -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="My Pustakalay - Access and download free public domain eBooks from our online library. Explore a vast collection of classic literature, educational books, and more. Best site for free eBooks, classic novels, and public domain books.">
+    <meta name="keywords" content="scriptures, vedic, My Pustakalay, ved, puran, upnishad, pdf, ebook, darshan, smriti, shastra, itihaas, ramayan, mahabharat">
+    <meta name="author" content="Subham Mahato">
     <title>My Pustakalay</title>
     <link rel="icon" href="Images/android-chrome-512x512.png" type="image/png">
     <link rel="stylesheet" href="styles.css">
@@ -11,7 +14,8 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Pustakalay</h1>
+        <img src="Images/welcome.png">
+        <h1>Welcome to My Pustakalay <sub>Developed by Subham Mahato.</sub></h1>
     </header>
     <nav>
         <ul>
@@ -28,74 +32,86 @@
             <input type="search" id="search-input" placeholder="&#x1f50D; Search for books...">
             <button onclick="searchBooks()">Search</button>
         </div>
-    <!--category1-->
+        <!--category1-->
         <section id="ved">
-        <h2>Ved</h2>
-        <div class="book-row">
-          <!--single book-->
-          <div class="book">
-             <a href="link" target="_blank">
-              <img src="Images/Rigved.jpg" alt="Rigved">
-             </a>
-          <div class="book-title">Rigved</div>
-          </div>
-          <!-- Add more books as needed -->
-        </div>
+            <h2>Ved</h2>
+            <div class="book-row">
+                <!--single book-->
+                <div class="book">
+                    <a href="link" target="_blank">
+                        <img src="Images/Rigved.jpg" alt="Rigved">
+                    </a>
+                    <div class="book-title">Rigved</div>
+                </div>
+                <!-- Add more books as needed -->
+            </div>
         </section>
-    <!--category2-->
+        <!--category2-->
         <section id="puran">
-        <h2>Puran</h2>
-        <div class="book-row">
-          <div class="book">
-          <div class="book-title">book 1</div>
-          </div>
-        </div>
+            <h2>Puran</h2>
+            <div class="book-row">
+                <div class="book">
+                    <div class="book-title">book</div>
+                </div>
+            </div>
         </section>
-    <!--category3-->
+        <!--category3-->
         <section id="anya-puran">
-        <h2>Anya-Puran</h2>
-        <div class="book-row">
-          <div class="book">
-          <div class="book-title">book 1</div>
-          </div>
-        </div>
+            <h2>Anya-Puran</h2>
+            <div class="book-row">
+                <div class="book">
+                    <div class="book-title">book</div>
+                </div>
+            </div>
         </section>
-    <!--category4-->
+        <!--category4-->
         <section id="itihas">
-        <h2>Itihas</h2>
-        <div class="book-row">
-          <div class="book">
-          <div class="book-title">book 1</div>
-          </div>
-        </div>
+            <h2>Itihas</h2>
+            <div class="book-row">
+                <div class="book">
+                    <div class="book-title">book</div>
+                </div>
+            </div>
         </section>
-    <!--category5-->
+        <!--category5-->
         <section id="smriti">
-        <h2>Smriti</h2>
-        <div class="book-row">
-          <div class="book">
-          <div class="book-title">book 1</div>
-          </div>
-        </div>
+            <h2>Smriti</h2>
+            <div class="book-row">
+                <div class="book">
+                    <div class="book-title">book</div>
+                </div>
+            </div>
         </section>
-    <!--category6-->
+        <!--category6-->
         <section id="darshan">
-        <h2>Darshan</h2>
-        <div class="book-row">
-          <div class="book">
-          <div class="book-title">book 1</div>
-          </div>
-        </div>
+            <h2>Darshan</h2>
+            <div class="book-row">
+                <div class="book">
+                    <div class="book-title">book</div>
+                </div>
+            </div>
         </section>
-     <!--top icon-->
-      <div>
-       <a href="#top" >
-        <img id="topicon" src="Images/top.jpg">
-       </a>
-      </div>
+        <!--top icon-->
+        <div>
+            <a href="#top">
+                <img id="topicon" src="Images/top.jpg">
+            </a>
+        </div>
+        <hr>
+        <div class="image">
+            <img src="Images/image.jpg" alt="Scriptures image">
+        </div>
+        <div>
+            <p class="feedback">Send us your <strong>feedback </strong>and <strong>reviews </strong><a href="https://t.me/TheSubhamMahato" target="_blank">here</a></p>
+        </div>
     </main>
     <footer>
         <p>&copy; 2024 My Pustakalay| All rights reserved</p>
+        <p><strong>Disclaimer : </strong><br>The books listed on this website are sourced from various open-source public domains. The website serves as a platform for sharing 
+            and accessing publicly available content. The developer does not claim ownership of the books or their content. If someone believes 
+            his/her rights have not been adequately respected, please 
+            <a href="https://t.me/TheSubhamMahato" target="_blank">Contect Us</a>
+            so we can address the matter promptly.</p>
     </footer>
     <script src="script.js"></script>
 </body>
