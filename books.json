@@ -1,0 +1,49 @@
+[
+    { "title": "Rigved", "link": "https://drive.google.com/file/d/1-Vy_cSGt91sBstrqmwru15KxikevD2CX/view?usp=drivesdk", "image": "Images/Rigved.jpg", "category": "ved" },
+    { "title": "Yajurved", "link": "https://drive.google.com/file/d/1-Zf_oVauAj65pHRaDRy3rjjjEUka4RnY/view?usp=drivesdk", "image": "Images/Yajurved.jpg", "category": "ved" },
+    { "title": "Saamved", "link": "https://drive.google.com/file/d/1-dJF-fKEiFmrl9KymjyzfI9e_ocCS6ce/view?usp=drivesdk", "image": "Images/Saamved.jpg", "category": "ved" },
+    { "title": "Atharvaved", "link": "https://drive.google.com/file/d/1-eTTBw8YUYac9XcE5xT7rgb2h8I_dMlX/view?usp=drivesdk", "image": "Images/Atharvaved.jpg", "category": "ved" },
+    { "title": "Rigved", "link": "link", "image": "Images/Rigved2.jpg", "category": "ved" },
+    { "title": "Yajurved", "link": "link", "image": "Images/Yajurved2.jpg", "category": "ved" },
+    { "title": "Saamved", "link": "link", "image": "Images/Saamved2.jpg", "category": "ved" },
+    { "title": "Atharvaved", "link": "link", "image": "Images/Atharvaved2.jpg", "category": "ved" },
+  
+    { "title": "Brahma Puran", "link": "https://drive.google.com/file/d/1nyb8m7qEEz2ZJXWUQqBVf2xpmXOlwty-/view?usp=drivesdk", "image": "Images/Brahma Puran.jpg", "category": "puran" },
+    { "title": "Padma Puran", "link": "https://drive.google.com/file/d/1KWTyVBZ6lzyjcPxAGqUYyeiksj9bH5Hk/view?usp=drivesdk", "image": "Images/Padma Puran.jpg", "category": "puran" },
+    { "title": "Vishnu Puran", "link": "https://drive.google.com/file/d/1KXrrbgqt9TafBb-2d8-p-ZW7_bSOkZ8E/view?usp=drivesdk", "image": "Images/Vishnu Puran.jpg", "category": "puran" },
+    { "title": "Shiv Puran", "link": "link", "image": "Images/Shiv Puran.jpg", "category": "puran" },
+    { "title": "Bhagwat Puran", "link": "https://drive.google.com/file/d/1Ka_NCjxQt59rDdHbtiHbHWSki6zRmh-p/view?usp=drivesdk", "image": "Images/Bhagwat Puran.jpg", "category": "puran" },
+    { "title": "Bhavishya Puran", "link": "https://drive.google.com/file/d/1L5UpDsJ-7PxMhST94pQAHqad9JAsxtKv/view?usp=drivesdk", "image": "Images/Bhavishya Puran.jpg", "category": "puran" },
+    { "title": "Narad Puran", "link": "https://drive.google.com/file/d/1LBLSg2MzQ3Xx7S-uJbHB-4IxRUF4nCiB/view?usp=drivesdk", "image": "Images/Narad Puran.jpg", "category": "puran" },
+    { "title": "Markandey Puran", "link": "https://drive.google.com/file/d/1LCcZi51nTX7hS51fKLLdrExuRRKBbyKi/view?usp=drivesdk", "image": "Images/Markandey Puran.jpg", "category": "puran" },
+    { "title": "Agni Puran", "link": "https://drive.google.com/file/d/1LEOhmgzp-rshztuM4Lb71JxPOC_4E0ib/view?usp=drivesdk", "image": "Images/Agni Puran.jpg", "category": "puran" },
+    { "title": "Brahmavaivart Puran", "link": "https://drive.google.com/file/d/1LOot9SuO3O6ngipFSOEjEchlqUNtDken/view?usp=drivesdk", "image": "Images/Brahmavaivart Puran.jpg", "category": "puran" },
+    { "title": "Ling Puran", "link": "https://drive.google.com/file/d/1LV_f2aHcD8Wzp-yEizJXjq65j5WaPZBu/view?usp=drivesdk", "image": "Images/Ling Puran.jpg", "category": "puran" },
+    { "title": "Varah Puran", "link": "https://drive.google.com/file/d/1PEwv2Kc5nBTtxgPs1EycdEdIBvW1nlOz/view?usp=drivesdk", "image": "Images/Varah Puran.jpg", "category": "puran" },
+    { "title": "Skand Puran", "link": "https://drive.google.com/file/d/1PFbRaro58G0LQnFNLRHBTPEP3r3Z_oEE/view?usp=drivesdk", "image": "Images/Skand Puran.jpg", "category": "puran" },
+    { "title": "Vaman Puran", "link": "https://drive.google.com/file/d/1PKCnnQabwPbeXCWY4B3HoYRxnzHOnbhm/view?usp=drivesdk", "image": "Images/Vaman Puran.jpg", "category": "puran" },
+    { "title": "Kurma Puran", "link": "https://drive.google.com/file/d/1PL0ebAWaMDXp1AVL0D_ec5DMuvNe-xKD/view?usp=drivesdk", "image": "Images/Kurma Puran.jpg", "category": "puran" },
+    { "title": "Matsya Puran", "link": "https://drive.google.com/file/d/1Pob-m-Tl5pS2Bc2NVY8RDk8y7VDZcnc4/view?usp=drivesdk", "image": "Images/Matsya Puran.jpg", "category": "puran" },
+    { "title": "Garud Puran", "link": "https://drive.google.com/file/d/1PzFu__m3l_PezcHsmF62nwN8vVGee9Ul/view?usp=drivesdk", "image": "Images/Garud Puran.jpg", "category": "puran" },
+    { "title": "Brahmand Puran", "link": "link", "image": "Images/Brahmand Puran.jpg", "category": "puran" },
+  
+    { "title": "Narsingh Puran", "link": "link", "image": "Images/Narsingh Puran.jpg", "category": "anya-puran" },
+    { "title": "Harivansh Puran", "link": "link", "image": "Images/Harivansh Puran.jpg", "category": "anya-puran" },
+  
+    { "title": "Mahabharat Part1", "link": "link", "image": "Images/Mahabharat1.jpg", "category": "itihas" },
+    { "title": "Mahabharat Part2", "link": "link", "image": "Images/Mahabharat2.jpg", "category": "itihas" },
+    { "title": "Mahabharat Part3", "link": "link", "image": "Images/Mahabharat3.jpg", "category": "itihas" },
+    { "title": "Mahabharat Part4", "link": "link", "image": "Images/Mahabharat4.jpg", "category": "itihas" },
+    { "title": "Mahabharat Part5", "link": "link", "image": "Images/Mahabharat5.jpg", "category": "itihas" },
+    { "title": "Mahabharat Part6", "link": "link", "image": "Images/Mahabharat6.jpg", "category": "itihas" },
+    { "title": "Ramayan", "link": "link", "image": "Images/Ramayan.jpg", "category": "itihas" },
+  
+    { "title": "Manusmriti", "link": "link", "image": "Images/Manusmriti.jpg", "category": "smriti" },
+    { "title": "Parashar Smriti", "link": "link", "image": "Images/Parashar Smriti.jpg", "category": "smriti" },
+    
+    { "title": "Vaidik Darshan", "link": "link", "image": "Images/Vaidik Darshan.jpg", "category": "darshan" },
+    { "title": "Sankhya Darshan", "link": "link", "image": "Images/Sankhya Darshan.jpg", "category": "darshan" },
+    { "title": "Yog Darshan", "link": "link", "image": "Images/Yog Darshan.jpg", "category": "darshan" },
+    { "title": "Nyai Darshan", "link": "link", "image": "Images/Nyai Darshan.jpg", "category": "darshan" }
+  ]
+  
